@@ -1,3 +1,5 @@
+REM old task: copy all files from one spot to another, maintaining their structure
+
 echo word 
 mkdir .\"testfolder"
 xcopy /s/e /y /v /h /k "c:\Users\user\Downloads\testfolder" "c:\Users\user\Downloads\testfolder"

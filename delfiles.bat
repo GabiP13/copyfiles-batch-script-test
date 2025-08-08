@@ -1,0 +1,1 @@
+REM new task: for the current folder, delete all FILES that are WITHIN subfolders
