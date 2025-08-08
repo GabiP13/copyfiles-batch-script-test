@@ -1,0 +1,1 @@
+REM goal: create files in the two subfolders for testing purposes
